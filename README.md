@@ -10,7 +10,7 @@
 <h3 align="center">About me</h3>
 
 <p align="center">
-  <b>Full-Stack Developer</b> working where software meets biology.<br>
+  
   <b>M.Sc. in Bioinformatics</b> from the Federal University of Rio Grande do Norte (UFRN).<br>
   I build scientific web applications, from data processing and APIs to interactive visualizations.
 </p>
