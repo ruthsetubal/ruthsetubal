@@ -12,7 +12,11 @@
 <p align="center">
   
   <b>M.Sc. in Bioinformatics</b> from the Federal University of Rio Grande do Norte (UFRN).<br>
-  I build scientific web applications, from data processing and APIs to interactive visualizations.
+  M.Sc. in Bioinformatics from the Federal University of Rio Grande do Norte (UFRN).
+
+Full-Stack Developer focused on scientific applications — from data processing and API design to interactive visualizations for phylogenetic analysis.
+
+
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a044e,50:a21caf,100:e879f9&height=2" />
