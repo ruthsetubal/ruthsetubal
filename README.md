@@ -10,12 +10,10 @@
 <h3 align="center">About me</h3>
 
 <p align="center">
-
-  
   <b>M.Sc. in Bioinformatics</b> from the Federal University of Rio Grande do Norte (UFRN).<br>
- 
+  Full-Stack Developer focused on scientific applications for phylogenetic analysis.
+</p>
 
-Full-Stack Developer focused on scientific applications for phylogenetic analysis.
 
 
 </p>
