@@ -1,31 +1,22 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a044e,50:a21caf,100:e879f9&height=200&section=header&text=Ruth%20Set%C3%BAbal&fontSize=48&fontColor=ffffff&fontAlignY=38&fontFamily=Playfair%20Display&desc=Full-Stack%20Developer%20%7C%20Bioinformatics&descSize=18&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4a044e,50:a21caf,100:e879f9&height=200&section=header&text=Ruth%20Set%C3%BAbal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Bioinformatics&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&pause=1200&color=E879F9&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;M.Sc.+in+Bioinformatics;Building+tools+for+phylogenetic+analysis;Python+%7C+R+%7C+Data+Visualization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E879F9&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;M.Sc.+in+Bioinformatics;Python+%7C+R+%7C+Data+Visualization" alt="Typing SVG" />
 </div>
 
 <br>
 
-<!-- About Me -->
 <h3 align="center">About me</h3>
 
-<div align="center">
-
-<img align="right" width="160" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat coding" />
-
-**M.Sc. in Bioinformatics** from the Federal University of Rio Grande do Norte (UFRN).
-
-Full-Stack Developer focused on scientific applications — from data processing
-and API design to interactive visualizations for phylogenetic analysis.
-
-<br clear="right"/>
-
-</div>
+<p align="center">
+  <b>Full-Stack Developer</b> working where software meets biology.<br>
+  <b>M.Sc. in Bioinformatics</b> from the Federal University of Rio Grande do Norte (UFRN).<br>
+  I build scientific web applications, from data processing and APIs to interactive visualizations.
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a044e,50:a21caf,100:e879f9&height=2" />
 
-<!-- Tech Stack -->
 <h3 align="center">Tech stack</h3>
 
 <div align="center">
@@ -33,29 +24,23 @@ and API design to interactive visualizations for phylogenetic analysis.
 **Languages**<br>
 <img src="https://skillicons.dev/icons?i=python,r,js,html,css&theme=dark" />
 
-**Back-end & Databases**<br>
+**Back-end**<br>
 <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
+
+**Databases**<br>
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />&nbsp;&nbsp;
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" />
 
-**Data Visualization & Tools**<br>
+**Data visualization**<br>
 <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/d3js/d3js-original.svg" alt="D3.js" />
+
+**Tools**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a044e,50:a21caf,100:e879f9&height=2" />
 
-<!-- GitHub Trophies -->
-<h3 align="center">Trophies</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruthsetubal&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a044e,50:a21caf,100:e879f9&height=2" />
-
-<!-- GitHub Stats -->
 <h3 align="center">GitHub stats</h3>
 
 <div align="center">
@@ -67,16 +52,6 @@ and API design to interactive visualizations for phylogenetic analysis.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a044e,50:a21caf,100:e879f9&height=2" />
 
-<!-- Activity Graph -->
-<h3 align="center">Activity</h3>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ruthsetubal&bg_color=0d1117&color=e879f9&line=a21caf&point=f0abfc&area=true&area_color=4a044e&hide_border=true" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a044e,50:a21caf,100:e879f9&height=2" />
-
-<!-- Contact -->
 <h3 align="center">Contact</h3>
 
 <div align="center">
@@ -86,17 +61,11 @@ and API design to interactive visualizations for phylogenetic analysis.
 
 <br>
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthsetubal/ruthsetubal/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthsetubal/ruthsetubal/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ruthsetubal/ruthsetubal/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruthsetubal&color=a21caf&style=for-the-badge&label=Profile+Views" />
-</div>
-
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e879f9,50:a21caf,100:4a044e&height=120&section=footer" />
-
